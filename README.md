@@ -1,1 +1,1 @@
-# App-jam-stack
+# Application of jam-stack
