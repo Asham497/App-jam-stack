@@ -1,0 +1,14 @@
+{
+  "name": "intern-task-2",
+  "version": "1.0.0",
+  "description": "Internship Task 2 using Handlebars and Gulp",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-hb": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "handlebars": "^4.7.8"
+  }
+}
